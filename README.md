@@ -1,4 +1,5 @@
 # spring-boot-hello
+#basic maven build with JDK 11
 
 # Pre-requisites:
   - Install Java
